@@ -1,6 +1,6 @@
 // morechar.cpp -- the char type and int type contrasted
 #include <iostream>
-int main36()
+int main366()
 {
 	using namespace std;
 	char ch = 'M';
