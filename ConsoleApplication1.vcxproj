@@ -142,7 +142,6 @@
     <ClCompile Include="3-2-exceed.cpp" />
     <ClCompile Include="3-4-hexoct2.cpp" />
     <ClCompile Include="3-6-morechar.cpp" />
-    <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="3-1-limits.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
