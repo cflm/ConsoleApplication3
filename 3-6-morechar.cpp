@@ -24,7 +24,7 @@ int main366()
 	cin >> code;
 	cout << "\aYou entered: " << code << "...\n";
 
-	int k\u00F6rper;
+	int k\u00F6rper = 0;
 	cout << "Let them eat g\u00E2teau.\n";
 
 	// true תΪ1, falseתΪ0
