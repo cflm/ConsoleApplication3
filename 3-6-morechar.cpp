@@ -12,7 +12,7 @@ int main366()
 	cout << "The ASCII code for " << ch << " is " << i << endl;
 
 	// using cout.put() member function to display a char
-	// . 句点称为成员运算符 对象名(cout)与成员函数put()
+	// . 句点称为成员运算符 对象名(cout)与成员函数put()   
 	cout << "cout.put(ch)" << endl;
 	cout.put(ch);
 	cout.put('!');

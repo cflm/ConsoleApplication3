@@ -19,6 +19,18 @@
     <Filter Include="源文件\第三章_处理数据\3.1简单变量">
       <UniqueIdentifier>{f66ee867-3b99-4ecf-8de0-5c05c12880c4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第三章_处理数据\3.3浮点数">
+      <UniqueIdentifier>{baefb5f5-f4cf-4431-ba6e-4c4f81c67fed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章_处理数据\3.4算术运算符">
+      <UniqueIdentifier>{ef481bdc-c5aa-48d5-9d8c-26c2c738e05f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第四章_复合类型">
+      <UniqueIdentifier>{0c9d209e-593a-465e-ae49-594e19494db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第四章_复合类型\4.1数组">
+      <UniqueIdentifier>{520eeb54-6ae6-4b98-9918-37c130be03c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3-2-exceed.cpp">
@@ -32,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="3-1-limits.cpp">
       <Filter>源文件\第三章_处理数据\3.1简单变量</Filter>
+    </ClCompile>
+    <ClCompile Include="floatnum.cpp">
+      <Filter>源文件\第三章_处理数据\3.3浮点数</Filter>
+    </ClCompile>
+    <ClCompile Include="arith.cpp">
+      <Filter>源文件\第三章_处理数据\3.4算术运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

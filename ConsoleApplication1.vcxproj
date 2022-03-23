@@ -143,6 +143,8 @@
     <ClCompile Include="3-4-hexoct2.cpp" />
     <ClCompile Include="3-6-morechar.cpp" />
     <ClCompile Include="3-1-limits.cpp" />
+    <ClCompile Include="arith.cpp" />
+    <ClCompile Include="floatnum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
