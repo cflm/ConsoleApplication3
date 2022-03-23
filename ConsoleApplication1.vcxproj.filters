@@ -28,8 +28,11 @@
     <Filter Include="源文件\第四章_复合类型">
       <UniqueIdentifier>{0c9d209e-593a-465e-ae49-594e19494db0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\第四章_复合类型\4.1数组">
+    <Filter Include="源文件\第四章_复合类型\4.1数组,字符串">
       <UniqueIdentifier>{520eeb54-6ae6-4b98-9918-37c130be03c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第四章_复合类型\4.3string类">
+      <UniqueIdentifier>{73f636a9-2f4e-4cf5-8972-cc7da7b588d6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="3-10-arith.cpp">
       <Filter>源文件\第三章_处理数据\3.4算术运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2-strings.cpp">
+      <Filter>源文件\第四章_复合类型\4.1数组,字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="4-7-strtype1.cpp">
+      <Filter>源文件\第四章_复合类型\4.3string类</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

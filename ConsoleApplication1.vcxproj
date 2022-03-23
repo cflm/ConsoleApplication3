@@ -145,6 +145,8 @@
     <ClCompile Include="3-1-limits.cpp" />
     <ClCompile Include="3-10-arith.cpp" />
     <ClCompile Include="3-8-floatnum.cpp" />
+    <ClCompile Include="4-2-strings.cpp" />
+    <ClCompile Include="4-7-strtype1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

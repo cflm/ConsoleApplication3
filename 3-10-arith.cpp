@@ -14,6 +14,6 @@ int main310()
 
 	vector<double> scores;
 	auto pv = scores.begin();  // 
-	vector<double>::iterator pv = scores.begin();  // 自动类型推导 便于编写代码
-
+	//vector<double>::iterator pv = scores.begin();  // 自动类型推导 便于编写代码
+	return 0;
 }
