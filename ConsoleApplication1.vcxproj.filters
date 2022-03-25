@@ -34,6 +34,12 @@
     <Filter Include="源文件\第四章_复合类型\4.3string类">
       <UniqueIdentifier>{73f636a9-2f4e-4cf5-8972-cc7da7b588d6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第四章_复合类型\4.4结构体,共用体,枚举">
+      <UniqueIdentifier>{3f41a129-07dd-4cec-bb34-12d6d4f64b75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第四章_复合类型\4.7指针和自由存储空间">
+      <UniqueIdentifier>{58f746cb-dd37-441e-b1c8-54a718dc0209}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3-2-exceed.cpp">
@@ -59,6 +65,27 @@
     </ClCompile>
     <ClCompile Include="4-7-strtype1.cpp">
       <Filter>源文件\第四章_复合类型\4.3string类</Filter>
+    </ClCompile>
+    <ClCompile Include="4-11-structur.cpp">
+      <Filter>源文件\第四章_复合类型\4.4结构体,共用体,枚举</Filter>
+    </ClCompile>
+    <ClCompile Include="4-12-assgn_st.cpp">
+      <Filter>源文件\第四章_复合类型\4.4结构体,共用体,枚举</Filter>
+    </ClCompile>
+    <ClCompile Include="4-13-arrstruc.cpp">
+      <Filter>源文件\第四章_复合类型\4.4结构体,共用体,枚举</Filter>
+    </ClCompile>
+    <ClCompile Include="4-14-address.cpp">
+      <Filter>源文件\第四章_复合类型\4.7指针和自由存储空间</Filter>
+    </ClCompile>
+    <ClCompile Include="4-17-use_new.cpp">
+      <Filter>源文件\第四章_复合类型\4.7指针和自由存储空间</Filter>
+    </ClCompile>
+    <ClCompile Include="4-18-arraynew.cpp">
+      <Filter>源文件\第四章_复合类型\4.7指针和自由存储空间</Filter>
+    </ClCompile>
+    <ClCompile Include="4-19-addpntrs.cpp">
+      <Filter>源文件\第四章_复合类型\4.7指针和自由存储空间</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
