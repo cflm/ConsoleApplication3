@@ -27,6 +27,7 @@ int main419()
 	cout << "*stacks=" << *stacks << endl;
 	cout << "*(stacks+1)=" << *(stacks + 1) << endl;
 	cout << "*(stacks+2)=" << *(stacks + 2) << endl;	
+
 	
 	return 0;
 }
