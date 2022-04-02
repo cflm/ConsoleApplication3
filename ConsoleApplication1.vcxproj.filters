@@ -55,6 +55,9 @@
     <Filter Include="源文件\第五章_循环和关系表达式\5-1-for循环">
       <UniqueIdentifier>{b407d8ed-4e76-4045-9578-0beb6255d007}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第五章_循环和关系表达式\5.2_while循环">
+      <UniqueIdentifier>{488584d1-1d2d-4923-9a66-fd6773394081}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3-2-exceed.cpp">
@@ -143,6 +146,12 @@
     </ClCompile>
     <ClCompile Include="5-12-compstr2.cpp">
       <Filter>源文件\第五章_循环和关系表达式\5-1-for循环</Filter>
+    </ClCompile>
+    <ClCompile Include="5-14-waiting.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5.2_while循环</Filter>
+    </ClCompile>
+    <ClCompile Include="5-15-dowhile.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5.2_while循环</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

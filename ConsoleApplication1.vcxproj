@@ -157,6 +157,8 @@
     <ClCompile Include="4-24-choices.cpp" />
     <ClCompile Include="4-7-strtype1.cpp" />
     <ClCompile Include="5-12-compstr2.cpp" />
+    <ClCompile Include="5-14-waiting.cpp" />
+    <ClCompile Include="5-15-dowhile.cpp" />
     <ClCompile Include="5-4-formore.cpp" />
     <ClCompile Include="5-8-block.cpp" />
     <ClCompile Include="5-9-forstr2.cpp" />
