@@ -13,18 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\第三章_处理数据">
-      <UniqueIdentifier>{0f4408d7-e706-46c0-8f24-291d42cd4577}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\第三章_处理数据\3.1简单变量">
-      <UniqueIdentifier>{f66ee867-3b99-4ecf-8de0-5c05c12880c4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\第三章_处理数据\3.3浮点数">
-      <UniqueIdentifier>{baefb5f5-f4cf-4431-ba6e-4c4f81c67fed}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\第三章_处理数据\3.4算术运算符">
-      <UniqueIdentifier>{ef481bdc-c5aa-48d5-9d8c-26c2c738e05f}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\第四章_复合类型">
       <UniqueIdentifier>{0c9d209e-593a-465e-ae49-594e19494db0}</UniqueIdentifier>
     </Filter>
@@ -48,6 +36,24 @@
     </Filter>
     <Filter Include="源文件\第四章_复合类型\4.10数组的替代品">
       <UniqueIdentifier>{c22229b9-5efd-4a81-8826-bb1f3e4ba880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章_处理数据">
+      <UniqueIdentifier>{0f4408d7-e706-46c0-8f24-291d42cd4577}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章_处理数据\3.1简单变量">
+      <UniqueIdentifier>{f66ee867-3b99-4ecf-8de0-5c05c12880c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章_处理数据\3.3浮点数">
+      <UniqueIdentifier>{baefb5f5-f4cf-4431-ba6e-4c4f81c67fed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章_处理数据\3.4算术运算符">
+      <UniqueIdentifier>{ef481bdc-c5aa-48d5-9d8c-26c2c738e05f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第五章_循环和关系表达式">
+      <UniqueIdentifier>{b4c6c2cf-83d3-4c4b-825e-3763419ddcde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第五章_循环和关系表达式\5-1-for循环">
+      <UniqueIdentifier>{b407d8ed-4e76-4045-9578-0beb6255d007}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +131,18 @@
     </ClCompile>
     <ClCompile Include="4-24-choices.cpp">
       <Filter>源文件\第四章_复合类型\4.10数组的替代品</Filter>
+    </ClCompile>
+    <ClCompile Include="5-4-formore.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5-1-for循环</Filter>
+    </ClCompile>
+    <ClCompile Include="5-8-block.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5-1-for循环</Filter>
+    </ClCompile>
+    <ClCompile Include="5-9-forstr2.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5-1-for循环</Filter>
+    </ClCompile>
+    <ClCompile Include="5-12-compstr2.cpp">
+      <Filter>源文件\第五章_循环和关系表达式\5-1-for循环</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
