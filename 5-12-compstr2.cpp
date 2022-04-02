@@ -1,7 +1,7 @@
 // compstr2.cpp -- comparing strings using arrays
 #include <iostream>
 #include <string>
-int main12()
+int main512()
 {
 	using namespace std;
 	string s1 = "?ello";
